@@ -1,0 +1,17 @@
+{
+  "docs": {
+    "Learn": [
+      "queries",
+      "joining",
+      "schema-modifications",
+      "examples"
+    ],
+    "Advanced": [
+      "googleapis",
+      "relay",
+      "fieldmasks",
+      "proto-api",
+      "implementation"
+    ]
+  }
+}
